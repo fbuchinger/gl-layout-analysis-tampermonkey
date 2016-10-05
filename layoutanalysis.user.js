@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Webpage Layout Analysis - PouchDB persisted
 // @namespace    https://github.com/fbuchinger/gl-layout-analysis-tampermonkey
-// @version      0.1
+// @version      0.1.1
 // @description  try to take over the world!
 // @author       You
 // @match        https://web.archive.org/web/*
@@ -9,7 +9,7 @@
 // @grant        none
 // @require http://code.jquery.com/jquery-latest.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/pouchdb/6.0.5/pouchdb.min.js
-// @require      file://E:/dev/gl-newspaper-layout-analysis/lib/jquery.layoutstats/src/jquery.layoutstats.js
+// @require      https://raw.githubusercontent.com/fbuchinger/jquery.layoutstats/master/src/jquery.layoutstats.js
 // ==/UserScript==
 /* jshint -W097 */
 
