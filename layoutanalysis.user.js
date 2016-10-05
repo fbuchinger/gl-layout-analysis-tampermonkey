@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Webpage Layout Analysis - PouchDB persisted
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/fbuchinger/gl-layout-analysis-tampermonkey
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
